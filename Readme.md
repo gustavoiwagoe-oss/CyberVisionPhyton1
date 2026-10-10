@@ -1,7 +1,5 @@
 # 👁️ CyberVision
 
-**CyberVision** é um projeto de Visão Computacional em Python inspirado na HUD e nos implantes ópticos do jogo *Cyberpunk 2077*. 
-
 A filosofia central do projeto é o **Minimalismo Visual com Inteligência de Back-end**: o sistema escaneia o ambiente, processa dezenas de variáveis, mas entrega ao usuário apenas a informação estritamente necessária (ex: bounding boxes precisas e status de tracking limpos), sem poluir a tela com dados inúteis.
 
 Atualmente, o projeto é um protótipo focado em **Detecção de Movimento e Tracking Passivo com Memória**, construído inteiramente com lógica matemática e processamento de imagem, preparando o terreno para a futura integração de Inteligência Artificial (YOLO).
